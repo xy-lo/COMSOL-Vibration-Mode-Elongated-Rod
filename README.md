@@ -1,8 +1,8 @@
 # 细长杆的弯曲振动分析系统 | Bending Vibration Analysis of Slender Rods
 
-本项目基于 COMSOL 与 MATLAB App Designer 开发了一个用于**等截面与变截面细长杆弯曲振动分析**的软件工具，界面简洁，操作直观，功能丰富，支持多种振动工况的模拟与分析。
+本项目基于 COMSOL 开发了一个用于**等截面与变截面细长杆弯曲振动分析**的软件工具，界面简洁，操作直观，功能丰富，支持多种振动工况的模拟与分析。
 
-This project provides a software tool for **bending vibration analysis of slender rods with uniform and non-uniform cross-sections**, developed using COMSOL and MATLAB App Designer. It features a clean interface, intuitive operation, and rich functionalities supporting various vibration scenarios.
+This project provides a software tool for **bending vibration analysis of slender rods with uniform and non-uniform cross-sections**, developed using COMSOL. It features a clean interface, intuitive operation, and rich functionalities supporting various vibration scenarios.
 
 ---
 

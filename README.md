@@ -71,7 +71,7 @@ The successful completion of this project would not have been possible without e
 ---
 
 ## 📁 文件结构 | File Structure
-
+bash
 ├── 提交                    # COMSOL 文件（6.2以上版本）<br>
 │   ├── 等截面细长杆弯曲振动研究.mph<br>
 │   ├── 变截面细长杆弯曲振动研究.mph<br>

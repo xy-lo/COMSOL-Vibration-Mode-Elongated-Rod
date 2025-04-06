@@ -11,14 +11,6 @@ This project develops an **interactive simulation App** based on **COMSOL Multip
 
 ---
 
-## 🎯 研究目的 | Objectives
-
-- 辅助学生理解动态法测杨氏模量实验的振动特性；
-- 提供一款集建模、仿真与动画演示于一体的教学工具；
-- 拓展至非均匀（变截面）结构的振动模态分析。
-
----
-
 ## ⚙️ 主要功能 | Key Features
 
 | 中文功能描述                     | English Description                          |

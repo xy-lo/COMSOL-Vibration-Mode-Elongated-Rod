@@ -71,16 +71,16 @@ The successful completion of this project would not have been possible without e
 ---
 
 ## 📁 文件结构 | File Structure
-bash
-├── 提交                    # COMSOL 文件（6.2以上版本）<br>
-│   ├── 等截面细长杆弯曲振动研究.mph<br>
-│   ├── 变截面细长杆弯曲振动研究.mph<br>
-├── 说明文档                # 项目介绍以及 COMSOL 建模说明<br>
-│   ├── 说明文档.pdf<br>
-│   ├── COMSOL建模说明.pdf<br>
-├── figures/                 # 图片展示文件夹<br>
-├── README.md                # 项目说明文件<br>
-
+```bash
+├── 提交                    # COMSOL 文件（6.2以上版本）
+│   ├── 等截面细长杆弯曲振动研究.mph
+│   ├── 变截面细长杆弯曲振动研究.mph
+├── 说明文档                # 项目介绍以及 COMSOL 建模说明
+│   ├── 说明文档.pdf<
+│   ├── COMSOL建模说明.pdf
+├── figures/                 # 图片展示文件夹
+├── README.md                # 项目说明文件
+```
 ---
 
 ## 📬 注 | Note

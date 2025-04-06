@@ -88,8 +88,8 @@ The successful completion of this project would not have been possible without e
 
 ## 📬 注 | Note
 
-📌 由于文件大小限制，完整版 app 无法直接上传展示，如有需要请通过主页 email 联系我。
-📌 The full app cannot be uploaded here due to size limits. Please contact me via email on the homepage if you're interested.
+📌 由于文件大小限制，完整版 app 无法直接上传展示，如有需要请通过主页 email 联系我。<br>
+📌 The full app cannot be uploaded here due to size limits. Please contact me via email on the homepage if you're interested.<br>
 
-如果这个项目对你有所帮助，欢迎点亮 ⭐Star！你的支持是我持续优化的动力！
+如果这个项目对你有所帮助，欢迎点亮 ⭐Star！你的支持是我持续优化的动力！<br>
 If you find this project helpful, please consider giving it a ⭐ star — it would be greatly appreciated!

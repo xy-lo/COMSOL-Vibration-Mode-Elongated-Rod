@@ -44,7 +44,6 @@ This project provides a software tool for **bending vibration analysis of slende
 
 - **振动模态分析**（计算不同阶次的固有频率与模态形状）  
   ![模态1](figures/模态1.png)
-  ![模态2](figures/模态2.png)
 - **节点位置输出**
 - **谐波响应分析**
   ![谐波响应](figures/谐响应.png)
@@ -53,7 +52,6 @@ This project provides a software tool for **bending vibration analysis of slende
 ### ✅ 变截面分析 | Non-Uniform Section Analysis
 
 - **振动模态分析**
-  ![模态1](figures/模态1.png)
   ![模态2](figures/模态2.png)
 - **节点位置输出**
 
